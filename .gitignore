@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/
+Include/
+Lib/
+Scripts/
+design.txt
+pyvenv.cfg
