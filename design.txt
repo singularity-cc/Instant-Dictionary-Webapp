@@ -1,0 +1,11 @@
+Title: Instant Dictionary Web-app
+Description: This is a web app that implements an instant dictionary. The user can search for a term and the web
+will show the discritionary desrciption for the term.
+The web contains a navigation-bar, a homepage, dictionarypage and aboutpage
+Objects: Definition:
+            term
+            get()
+        NavigationBar
+        HomePage
+        DictionaryPage
+        AboutPage
