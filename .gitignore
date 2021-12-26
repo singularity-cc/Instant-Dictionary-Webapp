@@ -6,3 +6,4 @@ Lib/
 Scripts/
 design.txt
 pyvenv.cfg
+!/design.txt
